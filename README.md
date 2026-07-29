@@ -23,7 +23,7 @@ Before that I spent a year at **Scale AI** on **prompt engineering and RLHF** fo
 I've been solving algorithmic problems since my first year of university. Codeforces Expert, CodeChef 4★, 2500+ problems across the major judges, two ICPC Dhaka Regional appearances, and a few contests I've set and judged myself. It shows up in the work: I notice the O(n²) before it ships.
 
 - Currently at Enosis Solutions, building enterprise .NET and React systems
-- Finishing an M.Sc. in CSE at Jahangirnagar University
+- Completed an M.Sc. in CSE from Jahangirnagar University
 - Interested in backend architecture, distributed systems, and applied LLM engineering
 - Open to backend, full-stack, and AI engineering roles
 - Reach me at **nafizfouad@gmail.com**
