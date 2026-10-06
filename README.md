@@ -82,8 +82,3 @@ I've been solving algorithmic problems since my first year of university. Codefo
 **Contests I set and judged:** [CodeElevate Camp 2023](https://www.hackerrank.com/contests/codeelevate-camp-2023/challenges) · [Binary Brains Battle 2022](https://www.hackerrank.com/contests/binary-brains-battle-december-2022/challenges)
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nafizfouad&show_icons=true&hide_border=true&title_color=2F3BD4&icon_color=2F3BD4&text_color=3A4356&hide_title=true" height="150" alt="GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nafizfouad&layout=compact&hide_border=true&title_color=2F3BD4&text_color=3A4356" height="150" alt="Top languages">
-</p>
